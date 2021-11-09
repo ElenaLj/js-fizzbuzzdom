@@ -44,3 +44,15 @@ body {
     height: 80px;
     background-color: #1389b2;
 }
+
+.box:nth-child(3n) {
+    background-color: #0bd6a1;
+}
+
+.box:nth-child(5n) {
+    background-color: #ffd166;
+}
+
+.box:nth-child(15n) {
+    background-color: #f0466f;
+}
